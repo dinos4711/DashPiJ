@@ -1,10 +1,3 @@
-/*
- * $Id$
- *
- * Copyright © 2000, 2015, Oracle and/or its affiliates. All rights reserved.
- *
- */
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
